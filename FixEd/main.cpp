@@ -7,7 +7,6 @@
 #include <sstream>
 #include <string>
 #include <opencv2/core.hpp>
-
 #include<iostream>
 #include<conio.h>           // it may be necessary to change or remove this line if not using Windows
 
